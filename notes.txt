@@ -1,0 +1,12 @@
+
+Array
+
+filter
+map 
+find 
+foreach 
+join 
+push 
+shift 
+slice 
+splice 
