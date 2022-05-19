@@ -8,6 +8,7 @@
 
 //i need the color 
 
+
 class Home{
    color = "";
    age = 0;
@@ -39,6 +40,9 @@ console.log(age1);
   //instance(callingHome) of the class
 
 console.log(fulldetails);
+
+var a = [];
+a.
 
 
 //javaapi or .net api
